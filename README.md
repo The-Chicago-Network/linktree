@@ -14,14 +14,6 @@
   <a href="#-license">License</a>
 </p>
 
----
-
-<p align="center">
-  <img alt="screenshot" src="screenshot.png">
-</p>
-
----
-
 ## 💡 About the project
 
 This is an open source project that serves as a free alternative to the Linktree website.
